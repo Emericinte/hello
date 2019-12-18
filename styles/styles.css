@@ -11,7 +11,7 @@ body {
   flex-direction: column; }
 
 header, main, footer {
-  padding: 4vmax 2vmax;
+  padding: 1.5vmax 1.5vmax;
   color: #fff;
   font-family: roboto; }
   @media screen and (min-width: 556px) {
@@ -181,3 +181,5 @@ body::-webkit-scrollbar-thumb {
 
 body::-webkit-scrollbar {
   width: 0.4em; }
+
+/*# sourceMappingURL=styles.css.map */
